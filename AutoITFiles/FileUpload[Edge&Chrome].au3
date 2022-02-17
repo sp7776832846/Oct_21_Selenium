@@ -1,0 +1,11 @@
+;Wait for open named popup to be opened.
+WinWaitActive("Open")
+Sleep(2000)
+;send("D:\Acceleration\Workspace\Oct_Maven_Project\AutoITFiles\FileUpload[Edge&Chrome].au3")
+send("D:\Acceleration\Workspace\Oct_Maven_Project\AutoITFiles\TestUpload.txt")
+Sleep(1000)
+Send("{TAB}")
+Sleep(1000)
+Send("{TAB}")
+Sleep(1000)
+Send("{ENTER}")

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="173" started-at="2022-02-15T01:22:56 IST" finished-at="2022-02-15T01:22:56 IST">
+    <groups>
+    </groups>
+    <test name="Test For User Manager" duration-ms="72" started-at="2022-02-15T01:22:56 IST" finished-at="2022-02-15T01:22:56 IST">
+      <class name="org.testNG_Ex2.UserManagerEx">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:org.testNG_Ex2.UserManagerEx@5204062d]" name="beforeTest" is-config="true" duration-ms="10" started-at="2022-02-15T01:22:56 IST" finished-at="2022-02-15T01:22:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.testNG_Ex2.UserManagerEx@5204062d]" name="beforeClass" is-config="true" duration-ms="1" started-at="2022-02-15T01:22:56 IST" finished-at="2022-02-15T01:22:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="umTest1()[pri:0, instance:org.testNG_Ex2.UserManagerEx@5204062d]" name="umTest1" duration-ms="9" started-at="2022-02-15T01:22:56 IST" finished-at="2022-02-15T01:22:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- umTest1 -->
+        <test-method status="PASS" signature="umTest2()[pri:0, instance:org.testNG_Ex2.UserManagerEx@5204062d]" name="umTest2" duration-ms="1" started-at="2022-02-15T01:22:56 IST" finished-at="2022-02-15T01:22:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- umTest2 -->
+        <test-method status="PASS" signature="umTest3()[pri:0, instance:org.testNG_Ex2.UserManagerEx@5204062d]" name="umTest3" duration-ms="1" started-at="2022-02-15T01:22:56 IST" finished-at="2022-02-15T01:22:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- umTest3 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.testNG_Ex2.UserManagerEx@5204062d]" name="afterClass" is-config="true" duration-ms="1" started-at="2022-02-15T01:22:56 IST" finished-at="2022-02-15T01:22:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:org.testNG_Ex2.UserManagerEx@5204062d]" name="afterTest" is-config="true" duration-ms="0" started-at="2022-02-15T01:22:56 IST" finished-at="2022-02-15T01:22:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- org.testNG_Ex2.UserManagerEx -->
+    </test> <!-- Test For User Manager -->
+    <test name="Test For Account Manager" duration-ms="24" started-at="2022-02-15T01:22:56 IST" finished-at="2022-02-15T01:22:56 IST">
+      <class name="org.testNG_Ex2.AccountManagerEx">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:org.testNG_Ex2.AccountManagerEx@5f71c76a]" name="beforeTest" is-config="true" duration-ms="0" started-at="2022-02-15T01:22:56 IST" finished-at="2022-02-15T01:22:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.testNG_Ex2.AccountManagerEx@5f71c76a]" name="beforeClass" is-config="true" duration-ms="0" started-at="2022-02-15T01:22:56 IST" finished-at="2022-02-15T01:22:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="umTest1()[pri:0, instance:org.testNG_Ex2.AccountManagerEx@5f71c76a]" name="umTest1" duration-ms="1" started-at="2022-02-15T01:22:56 IST" finished-at="2022-02-15T01:22:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- umTest1 -->
+        <test-method status="PASS" signature="umTest2()[pri:0, instance:org.testNG_Ex2.AccountManagerEx@5f71c76a]" name="umTest2" duration-ms="1" started-at="2022-02-15T01:22:56 IST" finished-at="2022-02-15T01:22:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- umTest2 -->
+        <test-method status="PASS" signature="umTest3()[pri:0, instance:org.testNG_Ex2.AccountManagerEx@5f71c76a]" name="umTest3" duration-ms="1" started-at="2022-02-15T01:22:56 IST" finished-at="2022-02-15T01:22:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- umTest3 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.testNG_Ex2.AccountManagerEx@5f71c76a]" name="afterClass" is-config="true" duration-ms="1" started-at="2022-02-15T01:22:56 IST" finished-at="2022-02-15T01:22:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:org.testNG_Ex2.AccountManagerEx@5f71c76a]" name="afterTest" is-config="true" duration-ms="1" started-at="2022-02-15T01:22:56 IST" finished-at="2022-02-15T01:22:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- org.testNG_Ex2.AccountManagerEx -->
+      <class name="org.testNG_Ex2.AccountManagerEx2">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.testNG_Ex2.AccountManagerEx2@1d7acb34]" name="beforeClass" is-config="true" duration-ms="0" started-at="2022-02-15T01:22:56 IST" finished-at="2022-02-15T01:22:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="acctest1()[pri:0, instance:org.testNG_Ex2.AccountManagerEx2@1d7acb34]" name="acctest1" duration-ms="1" started-at="2022-02-15T01:22:56 IST" finished-at="2022-02-15T01:22:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acctest1 -->
+        <test-method status="PASS" signature="acctest2()[pri:0, instance:org.testNG_Ex2.AccountManagerEx2@1d7acb34]" name="acctest2" duration-ms="1" started-at="2022-02-15T01:22:56 IST" finished-at="2022-02-15T01:22:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acctest2 -->
+        <test-method status="PASS" signature="acctest3()[pri:0, instance:org.testNG_Ex2.AccountManagerEx2@1d7acb34]" name="acctest3" duration-ms="1" started-at="2022-02-15T01:22:56 IST" finished-at="2022-02-15T01:22:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acctest3 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.testNG_Ex2.AccountManagerEx2@1d7acb34]" name="afterClass" is-config="true" duration-ms="0" started-at="2022-02-15T01:22:56 IST" finished-at="2022-02-15T01:22:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.testNG_Ex2.AccountManagerEx2 -->
+    </test> <!-- Test For Account Manager -->
+  </suite> <!-- Suite -->
+</testng-results>
